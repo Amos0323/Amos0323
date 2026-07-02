@@ -1,35 +1,84 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sello Mabua
-===================================================================================================================================
+# Sello Mabua
 
-Front-End Developer
--------------------
+### Systems Solution Specialist · AI Automation & Workflow Developer
 
-I like to learn programming.
+I design and build practical systems that turn repetitive business processes into reliable, testable workflows. My work combines systems thinking, workflow design, AI integration, quality assurance, and stakeholder collaboration.
 
-*   🌍  I'm based in Cape Town
-*   ✉️  You can contact me at [selloamos@gmail.com](mailto:selloamos@gmail.com)
-*   🧠  I'm learning AWS### Skills 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-                    </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                      <a href="https://www.github.com/Amos0323" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/sello-mabua-137422128" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Amos0323"><img src="https://github-readme-stats.vercel.app/api?username=Amos0323&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Amos0323's GitHub stats" /></a><a
-                      href="http://www.github.com/Amos0323"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amos0323&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Amos0323" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos0323&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+[LinkedIn](https://www.linkedin.com/in/sello-mabua-137422128) · [Email](mailto:selloamos@gmail.com) · [View my repositories](https://github.com/Amos0323?tab=repositories)
+
+## About me
+
+- Based in South Africa
+- Learning Technology Specialist with hands-on experience configuring platforms and improving digital workflows
+- Building AI automation projects for bookings, lead response, appointment scheduling, and reminders
+- Focused on solutions that are useful, explainable, resilient, and easy for people to operate
+- Open to Systems, AI Automation, Workflow, and Learning Technology opportunities
+
+## Featured AI automation projects
+
+| Project | What it does | Core technologies |
+|---|---|---|
+| **[Bookly AI](https://github.com/Amos0323/bookly-ai)** | A WhatsApp-style AI booking assistant that understands customer requests, collects missing details, checks availability, and confirms bookings. | React, Node.js, Express, OpenAI API, webhooks, automated tests |
+| **[ReplyFlow AI](https://github.com/Amos0323/replyflow-ai)** | An AI lead-response workflow that identifies intent and urgency, qualifies leads, drafts replies, and keeps a human approval step before sending. | React, Node.js, Express, structured AI output, REST APIs, tests |
+| **[Remindly AI](https://github.com/Amos0323/remindly-ai)** | An appointment scheduling and reminder system with validation rules, AI-assisted reminder copy, delivery states, and a clear activity timeline. | React, Node.js, Express, OpenAI API, scheduling logic, tests |
+
+### Project previews
+
+| Bookly AI | ReplyFlow AI | Remindly AI |
+|---|---|---|
+| [![Bookly AI preview](https://raw.githubusercontent.com/Amos0323/bookly-ai/main/docs/preview.png)](https://github.com/Amos0323/bookly-ai) | [![ReplyFlow AI preview](https://raw.githubusercontent.com/Amos0323/replyflow-ai/main/docs/preview.png)](https://github.com/Amos0323/replyflow-ai) | [![Remindly AI preview](https://raw.githubusercontent.com/Amos0323/remindly-ai/main/docs/preview.png)](https://github.com/Amos0323/remindly-ai) |
+
+## Skills
+
+**Systems and delivery**
+
+Platform Configuration · Workflow Design · Quality Assurance · Data Validation · Stakeholder Collaboration · Client Training · Process Improvement
+
+**AI and automation**
+
+OpenAI Responses API · Prompt Design · Structured Outputs · Human-in-the-loop Workflows · Fallback Logic · Webhook Integration · AI-assisted Operations
+
+**Software engineering**
+
+JavaScript · React · Node.js · Express · REST APIs · Vite · Git · GitHub · Automated Testing · Responsive UI Development
+
+## How I build reliable systems
+
+1. **Discover** — understand the user, business goal, data, and constraints.
+2. **Map** — turn the process into clear states, decisions, and hand-offs.
+3. **Build** — connect the interface, business rules, APIs, and AI safely.
+4. **Validate** — test happy paths, edge cases, fallbacks, and data quality.
+5. **Improve** — use feedback and results to refine the workflow.
+
+Across my projects, critical business rules remain deterministic while AI handles language understanding and response drafting. API keys stay server-side, fallback behaviour keeps the demos usable, and tests cover the core workflow logic.
+
+## Experience
+
+**Learning Technology Specialist — TFG**  
+*March 2023 – Present*
+
+- Configure and support enterprise learning platforms and digital learning pathways.
+- Perform quality assurance and data validation to protect usability and information integrity.
+- Collaborate with stakeholders and guide users through systems and process changes.
+
+**Trainee Graduate — TFG**  
+*January 2022 – March 2023*
+
+- Supported front-end development in agile delivery teams.
+- Contributed to responsive user interfaces, testing, and continuous improvement.
+
+## Education
+
+- **Diploma in Information and Communication Technology** — Cape Peninsula University
+- **Higher Certificate in Information and Communication Technology** — Cape Peninsula University
+
+## Current focus
+
+I am expanding this portfolio into a practical library of business automations, including lead qualification and routing, property enquiry workflows, customer support, document processing, internal knowledge assistants, and performance reporting.
+
+## Let’s connect
+
+If you are hiring for systems, workflow automation, AI-enabled operations, or learning technology work, I would be glad to connect.
+
+- [LinkedIn](https://www.linkedin.com/in/sello-mabua-137422128)
+- [selloamos@gmail.com](mailto:selloamos@gmail.com)
