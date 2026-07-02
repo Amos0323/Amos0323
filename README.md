@@ -8,7 +8,7 @@ I design and build practical systems that turn repetitive business processes int
 
 ## About me
 
-- Based in South Africa
+- Based in South Africa, Cape Town
 - Learning Technology Specialist with hands-on experience configuring platforms and improving digital workflows
 - Building AI automation projects for bookings, lead response, appointment scheduling, and reminders
 - Focused on solutions that are useful, explainable, resilient, and easy for people to operate
