@@ -10,7 +10,7 @@ I design and build practical systems that turn repetitive business processes int
 
 - Based in South Africa, Cape Town
 - Learning Technology Specialist with hands-on experience configuring platforms and improving digital workflows
-- Building AI automation projects for bookings, lead response, appointment scheduling, and reminders
+- Building AI automation projects for workflow orchestration, bookings, lead response, appointment scheduling, and reminders
 - Focused on solutions that are useful, explainable, resilient, and easy for people to operate
 - Open to Systems, AI Automation, Workflow, and Learning Technology opportunities
 
@@ -18,15 +18,20 @@ I design and build practical systems that turn repetitive business processes int
 
 | Project | What it does | Core technologies |
 |---|---|---|
+| **[Relay AI Workflow Studio](https://github.com/Amos0323/ai-workflow-studio)** | A visual workflow automation studio for building, running, and reviewing AI-assisted business processes with conditional routing, execution logs, deterministic fallbacks, and human approval. | React, TypeScript, React Flow, Node.js, Express, Prisma, SQLite, OpenAI Responses API, Zod, Vitest |
 | **[Bookly AI](https://github.com/Amos0323/bookly-ai)** | A WhatsApp-style AI booking assistant that understands customer requests, collects missing details, checks availability, and confirms bookings. | React, Node.js, Express, OpenAI API, webhooks, automated tests |
 | **[ReplyFlow AI](https://github.com/Amos0323/replyflow-ai)** | An AI lead-response workflow that identifies intent and urgency, qualifies leads, drafts replies, and keeps a human approval step before sending. | React, Node.js, Express, structured AI output, REST APIs, tests |
 | **[Remindly AI](https://github.com/Amos0323/remindly-ai)** | An appointment scheduling and reminder system with validation rules, AI-assisted reminder copy, delivery states, and a clear activity timeline. | React, Node.js, Express, OpenAI API, scheduling logic, tests |
 
 ### Project previews
 
-| Bookly AI | ReplyFlow AI | Remindly AI |
-|---|---|---|
-| [![Bookly AI preview](https://raw.githubusercontent.com/Amos0323/bookly-ai/main/docs/preview.png)](https://github.com/Amos0323/bookly-ai) | [![ReplyFlow AI preview](https://raw.githubusercontent.com/Amos0323/replyflow-ai/main/docs/preview.png)](https://github.com/Amos0323/replyflow-ai) | [![Remindly AI preview](https://raw.githubusercontent.com/Amos0323/remindly-ai/main/docs/preview.png)](https://github.com/Amos0323/remindly-ai) |
+| Relay AI Workflow Studio | Bookly AI |
+|---|---|
+| [![Relay AI Workflow Studio preview](https://raw.githubusercontent.com/Amos0323/ai-workflow-studio/main/docs/screenshots/dashboard.png)](https://github.com/Amos0323/ai-workflow-studio) | [![Bookly AI preview](https://raw.githubusercontent.com/Amos0323/bookly-ai/main/docs/preview.png)](https://github.com/Amos0323/bookly-ai) |
+
+| ReplyFlow AI | Remindly AI |
+|---|---|
+| [![ReplyFlow AI preview](https://raw.githubusercontent.com/Amos0323/replyflow-ai/main/docs/preview.png)](https://github.com/Amos0323/replyflow-ai) | [![Remindly AI preview](https://raw.githubusercontent.com/Amos0323/remindly-ai/main/docs/preview.png)](https://github.com/Amos0323/remindly-ai) |
 
 ## Skills
 
@@ -40,7 +45,7 @@ OpenAI Responses API · Prompt Design · Structured Outputs · Human-in-the-loop
 
 **Software engineering**
 
-JavaScript · React · Node.js · Express · REST APIs · Vite · Git · GitHub · Automated Testing · Responsive UI Development
+TypeScript · JavaScript · React · React Flow · Node.js · Express · REST APIs · Prisma · SQLite · Vite · Git · GitHub · Vitest · Automated Testing · Responsive UI Development
 
 ## How I build reliable systems
 
@@ -74,7 +79,7 @@ Across my projects, critical business rules remain deterministic while AI handle
 
 ## Current focus
 
-I am expanding this portfolio into a practical library of business automations, including lead qualification and routing, property enquiry workflows, customer support, document processing, internal knowledge assistants, and performance reporting.
+I am expanding this portfolio into a practical library of business automations, including workflow orchestration, lead qualification and routing, property enquiry workflows, customer support, document processing, internal knowledge assistants, and performance reporting.
 
 ## Let’s connect
 
