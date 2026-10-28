@@ -94,12 +94,6 @@ A visual workflow builder backed by a typed execution engine with branching, hum
 - **[Côte Noire Course Website](https://github.com/Amos0323/New2):** Astro/Tailwind learning experience with modular product content and interactive knowledge checks.
 - **[Personal Portfolio Website](https://sello-mabua-portfolio.vercel.app/):** Project case studies, engineering focus and professional experience.
 
-## Enterprise Automation — In Development
-
-**WorkplaceOps Automation** is a local PowerShell project for simulated employee onboarding, transfers, offboarding and access governance. Its implementation includes request validation, dry-run plans, explicit approval checks, mock directory updates and audit records, with Pester tests for lifecycle and governance behavior.
-
-It uses synthetic data and mock Microsoft Entra ID/Microsoft 365 operations. No live tenant integration is claimed; source is not currently public.
-
 ## Professional Experience
 
 ### Learning Technology Specialist · TFG — The Foschini Group
