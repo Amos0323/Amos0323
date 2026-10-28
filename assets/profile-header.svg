@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+<title id="title">Sello Mabua</title>
+<desc id="desc">Software Developer, Test Automation, Enterprise Systems. Charcoal background with emerald accents.</desc>
+<rect width="1200" height="220" rx="16" fill="#111918"/>
+<rect x="48" y="46" width="5" height="126" rx="2" fill="#34d399"/>
+<text x="78" y="71" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="4" fill="#6ee7b7">DEVELOPMENT / QUALITY / SYSTEMS</text>
+<text x="75" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1" fill="#f1f5f4">Sello Mabua</text>
+<text x="78" y="174" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#b5c6bf">Software Developer · Test Automation · Enterprise Systems</text>
+<g fill="none" stroke="#34d399" stroke-width="1.5" opacity="0.35">
+<rect x="1010" y="51" width="110" height="110" rx="18"/>
+<path d="m1038 90-13 16 13 16m54-32 13 16-13 16m-23-32-10 32" stroke-width="3"/>
+<path d="M955 106h55m110 0h32"/>
+</g>
+</svg>
+
